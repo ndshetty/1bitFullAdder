@@ -1,0 +1,23 @@
+#
+lab3 nand2 symbol
+I8
+I7
+I6
+I5
+I4
+I3
+I2
+I1
+I0
+#ISCELL
+basic iopin symbolr
+PIN6
+PIN5
+PIN4
+PIN3
+PIN2
+PIN1
+PIN0
+#ISCELL
+US_10ths Dsize symbol
+I9

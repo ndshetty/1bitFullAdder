@@ -1,0 +1,24 @@
+#
+ahdlLib rand_bit_stream symbol
+I8
+I10
+I9
+#
+lab4 fulladdsch1 symbol
+I4
+#
+analogLib cap spectre
+C1
+S
+#
+analogLib vdc spectre
+V0
+#ISCELL
+basic gnd symbol
+I7
+I6
+I5
+I2
+#ISCELL
+US_10ths Asize symbol
+I3

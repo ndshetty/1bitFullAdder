@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ndshetty
+HostName                       waltz.ee.ryerson.ca
+ProcessIdentifier              25805
+ProcessCreationTime_UTC        1607264365
+ProcessCreationTime_Readable   Sun Dec  6 09:19:25 2020 EST
+AppIdentifier                  /CMC/tools/cadence/IC5141USR6_lnx86/tools/dfII/bin/icfb.exe
+OSType                         lnx86
+ReasonForPlacingEditLock       XXopen A_MODE lock
+FilePathUsedToEditLock         /home/student2/ndshetty/ele734/lab4/tb2sch/schematic/sch.cdb
+TimeEditLocked                 Sun Dec  6 16:20:30 2020 EST
